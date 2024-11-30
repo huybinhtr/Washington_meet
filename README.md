@@ -19,7 +19,7 @@ pip install myqlm==1.9.4
 pip install scipy==1.10.1
 ```
 
-#### Step 2: Install OpenVQE
+#### Step 3: Install OpenVQE
 
 ```bash
 git clone https://github.com/OpenVQE/OpenVQE.git
