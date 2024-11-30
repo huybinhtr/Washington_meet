@@ -1,8 +1,5 @@
 import numpy as np
 
-
-
-
 def get_optimization_func(circ, qpu, H_sp, method, nqbits, psi0, energy_list, fid_list):
     # below, I show an example of minimization of the energy where I store the energy and fidelity for each parameter
     # I use a gradient-free procedure.
