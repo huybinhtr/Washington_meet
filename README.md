@@ -1,5 +1,5 @@
 ### Washington DC Quantum Computing
-This is the presentation + code implementation presented in the [Washington DC Quantum Computing Meetup event](https://www.linkedin.com/events/quantumcomputingforquantumchemi7256029632620019712/comments/)
+This is the presentation + code implementation presented in the [Washington DC Quantum Computing Meetup event](https://www.linkedin.com/events/quantumcomputingforquantumchemi7256029632620019712/comments/) under the title "Quantum Computing for Quantum Chemistry - Review UCC Methods and Adapt-VQE Algorithms"
 
 - Check the file `Abstract.pdf` for the content of the event and also `OpenVQE_pdf` for the open-source introduction.
 - Next step is for the OpenVQE package installation:
