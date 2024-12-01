@@ -2,7 +2,7 @@
 This is the presentation + code implementation presented in the [Washington DC Quantum Computing Meetup event](https://www.linkedin.com/events/quantumcomputingforquantumchemi7256029632620019712/comments/) under the title "**Quantum Computing for Quantum Chemistry - Review UCC Methods and Adapt-VQE Algorithms**"
 
 - Check the file `Abstract.pdf` for the content of the event and also `Presentation.pdf` for the open-source introduction.
-- Next step is for the OpenVQE package installation:
+- Following steps are to set up the environment for the OpenVQE package and myQLM installation:
 
 #### Step 1: Install `myQLM-fermion`
 ```bash
@@ -25,9 +25,9 @@ pip install scipy==1.10.1
 git clone https://github.com/OpenVQE/OpenVQE.git
 pip install -e .
 ```
-Finally clone this git respo 
+Last step is to clone this git respo as command below 
 ```bash
-git clone https://github.com/huybinhtr/Washington_presentation
+git clone https://github.com/huybinhtr/Washington_meet
 ```
 
 
