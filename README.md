@@ -25,7 +25,7 @@ pip install scipy==1.10.1
 git clone https://github.com/OpenVQE/OpenVQE.git
 pip install -e .
 ```
-Finally clone this git respo 
+Last step is to clone this git respo as command below 
 ```bash
 git clone https://github.com/huybinhtr/Washington_presentation
 ```
