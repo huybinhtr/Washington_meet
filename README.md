@@ -27,7 +27,7 @@ pip install -e .
 ```
 Last step is to clone this git respo as command below 
 ```bash
-git clone https://github.com/huybinhtr/Washington_presentation
+git clone https://github.com/huybinhtr/Washington_meet
 ```
 
 
